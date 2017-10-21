@@ -192,7 +192,7 @@ public class File_Project{
                     address = columns[3]; 
                     break; 
             }
-
+               // kchecgit 
             try
             {
     //            String query = "INSERT INTO `customer_DB`.`customer` (`first_name`, "
